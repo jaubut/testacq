@@ -1,0 +1,16 @@
+{
+    "intro": {
+        "headline": "The Ultimate Guide to Static Websites with Harp & Jade",
+        "description": "",
+        "date": "2015-05-26",
+        "category": "code",
+        "image": {
+            "file": "harp-jade.jpg",
+            "credit_text": "Skye Selbiger (adapted)",
+            "credit_url": "http://www.skyeselbiger.com"
+        },
+        "colors": [[245, 101, 101], [30, 57, 126]],
+        "highlight_code": true,
+        "codepen_embed": true
+    },
+}

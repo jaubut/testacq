@@ -1,0 +1,21 @@
+{
+    "globals": {
+        "version": "1",
+        "title": "Chanvre Quebec",
+        "site": "Chanvre Quebec",
+        "url": "https://chanvresa.com",
+        "description": "Nous sommes la référence en matière de chanvre au Québec!",
+        "google_analytics": "'UA-65631754-1'",
+
+        "author": "Jérémie Aubut",
+        "email": "info@chanvresa.com",
+        "profiles": {
+            "twitter": "_inesmontani",
+            "instagram": "ines.montani",
+            "linkedin": "inesmontani",
+            "github": "inesmontani",
+            "codepen": "inesmontani",
+            "medium": "inesmontani"
+        }
+    }
+}
